@@ -16,6 +16,12 @@ Estou iniciando minha jornada no mundo do desenvolvimento de software, atualment
 - **Ferramentas:** Git, Visual Studio Code, AWS
 - **Banco de Dados:** MySQL, PostgreSQL, MongoDB
 
+## Hobbies e Interesses
+
+- 🎮 Jogar videogames
+- 📚 Ler livros sobre tecnologia e ficção científica
+- 🎵 Ouvir música
+
 ## Contato
 
 Sinta-se à vontade para entrar em contato comigo:
