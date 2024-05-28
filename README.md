@@ -1,4 +1,4 @@
-# Olá, eu sou [Orlando Mendes]! 👋
+# Olá, eu sou Orlando Mendes 👋
 
 ## Sobre Mim
 
