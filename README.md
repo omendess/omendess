@@ -29,13 +29,15 @@ Sinta-se à vontade para entrar em contato comigo:
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/OrlandoMendess)
 [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:o_mendes@outlook.com.br)
 
-
 Estou sempre aberto a novas oportunidades de aprendizado e colaboração. Vamos construir algo incrível juntos!
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omendess&show_icons=true&theme=radical" alt="Orlando Mendes's GitHub stats">
+</p>
 
-![Orlando Mendes](https://github-readme-stats.vercel.app/api?username=omendess&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omendess&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omendess&layout=compact&theme=radical" alt="Top Languages">
+</p>
 
 
 
