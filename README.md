@@ -20,7 +20,7 @@ Estou iniciando minha jornada no mundo do desenvolvimento de software, atualment
 
 Sinta-se à vontade para entrar em contato comigo:
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]([URL_do_X](https://x.com/OrlandoMendess))
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/OrlandoMendess)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](URL_do_LinkedIn)
 [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:o_mendes@outlook.com.br)
 
