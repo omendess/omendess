@@ -1,30 +1,37 @@
 # Olá, eu sou Orlando Mendes 👋
 
+Estou iniciando minha jornada no mundo do desenvolvimento de software, atualmente estudando Engenharia de Software e Análise e Desenvolvimento de Sistemas. Sou curioso, entusiasta de tecnologia e sempre em busca de novos desafios para aprimorar minhas habilidades.
+
 ## Sobre Mim
 
-Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Tenho experiência em várias linguagens de programação e adoro criar soluções eficientes e elegantes para problemas complexos. Estou sempre procurando aprender algo novo e colaborar com a comunidade open source.
+- 📚 **Estudante:** Engenharia de Software e Análise e Desenvolvimento de Sistemas.
+- 🌱 **Aprendendo:** Python, Java, JavaScript, React e Node.js.
+- 💼 **Projetos:** Trabalhando em projetos acadêmicos e pessoais para ganhar experiência prática.
+- 🎯 **Objetivo:** Tornar-me um desenvolvedor competente e contribuir para projetos open source.
 
 ## Tecnologias e Ferramentas
 
-- **Linguagens:** Python, JavaScript, Java, C++
-- **Frameworks:** React, Node.js
-- **Ferramentas:** Git, Docker, AWS
+- **Linguagens:** Python, Java, JavaScript
+- **Frameworks e Bibliotecas:** React (iniciante), Node.js
+- **Ferramentas:** Git, Visual Studio Code, AWS
 - **Banco de Dados:** MySQL, PostgreSQL, MongoDB
 
 ## Contato
 
-Você pode me encontrar em:
-- [LinkedIn](URL do LinkedIn)
-- [Twitter](URL do Twitter)
-- [Email](mailto:seuemail@dominio.com)
+Sinta-se à vontade para entrar em contato comigo:
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato se quiser colaborar em algum projeto ou simplesmente bater um papo sobre tecnologia!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](URL_do_LinkedIn)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](URL_do_Twitter)
+[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:o_mendes@outlook.com.br)
 
----
 
-![Orlando Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Estou sempre aberto a novas oportunidades de aprendizado e colaboração. Vamos construir algo incrível juntos!
+
+
+![Orlando Mendes](https://github-readme-stats.vercel.app/api?username=omendess&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omendess&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
