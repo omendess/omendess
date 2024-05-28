@@ -1,7 +1,4 @@
-## Hi there 👋
-
-
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou [Orlando Mendes]! 👋
 
 ## Sobre Mim
 
@@ -10,27 +7,9 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Tenho e
 ## Tecnologias e Ferramentas
 
 - **Linguagens:** Python, JavaScript, Java, C++
-- **Frameworks:** React, Node.js, Django, Flask
-- **Ferramentas:** Git, Docker, Kubernetes, AWS
+- **Frameworks:** React, Node.js
+- **Ferramentas:** Git, Docker, AWS
 - **Banco de Dados:** MySQL, PostgreSQL, MongoDB
-
-## Projetos em Destaque
-
-### [Projeto 1](URL do Projeto)
-Uma breve descrição do Projeto 1. Este projeto faz XYZ e é usado para ABC.
-
-### [Projeto 2](URL do Projeto)
-Uma breve descrição do Projeto 2. Este projeto faz XYZ e é usado para ABC.
-
-### [Projeto 3](URL do Projeto)
-Uma breve descrição do Projeto 3. Este projeto faz XYZ e é usado para ABC.
-
-## Contribuições
-
-Tenho orgulho de contribuir para a comunidade open source. Alguns dos projetos que já contribuí incluem:
-- [Projeto Open Source 1](URL do Projeto)
-- [Projeto Open Source 2](URL do Projeto)
-- [Projeto Open Source 3](URL do Projeto)
 
 ## Contato
 
@@ -43,11 +22,9 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se quis
 
 ---
 
-![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
+![Orlando Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 
